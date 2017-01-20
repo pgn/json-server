@@ -1,0 +1,38 @@
+{
+  "token_1": {
+    "userConsents": [
+      {
+        "consentId": "MONITORING",
+        "summary": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+        "consentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere quam risus, ut imperdiet lacus scelerisque a. Nulla lacinia odio eget varius blandit. Nunc vehicula tortor in lacus accumsan, ut placerat nisi ornare. Etiam at dignissim sem. Donec congue mi sed ligula porttitor, at consequat erat tempus. Proin pharetra risus lorem, id fringilla nulla laoreet eget. Pellentesque eget sollicitudin augue, ut semper velit. Nunc elementum suscipit tortor. Aliquam tempor iaculis tempus.Etiam tempor vel dolor in fermentum. Phasellus ut lorem dapibus, rutrum leo vitae, feugiat nisl. Aliquam a enim sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit dui, sodales et quam ac, efficitur pellentesque sem. Cras nec scelerisque libero. Pellentesque et magna eleifend, ultrices magna vitae, fringilla ligula. Praesent sed est ultrices, lobortis quam vitae, porttitor erat. Phasellus imperdiet congue leo, et vestibulum dolor volutpat eu. Suspendisse potenti. Etiam lobortis at dolor in ultricies. Cras tempor metus vel eros maximus feugiat. Sed nulla lorem, viverra at orci ac, placerat lobortis orci. Praesent bibendum ex vitae commodo rutrum.",
+        "currentValue": "YES",
+        "lastUpdatedAt": 1484832366831
+      },
+      {
+        "consentId": "PERSONALIZED",
+        "summary": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+        "consentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere quam risus, ut imperdiet lacus scelerisque a. Nulla lacinia odio eget varius blandit. Nunc vehicula tortor in lacus accumsan, ut placerat nisi ornare. Etiam at dignissim sem. Donec congue mi sed ligula porttitor, at consequat erat tempus. Proin pharetra risus lorem, id fringilla nulla laoreet eget. Pellentesque eget sollicitudin augue, ut semper velit. Nunc elementum suscipit tortor. Aliquam tempor iaculis tempus.Etiam tempor vel dolor in fermentum. Phasellus ut lorem dapibus, rutrum leo vitae, feugiat nisl. Aliquam a enim sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit dui, sodales et quam ac, efficitur pellentesque sem. Cras nec scelerisque libero. Pellentesque et magna eleifend, ultrices magna vitae, fringilla ligula. Praesent sed est ultrices, lobortis quam vitae, porttitor erat. Phasellus imperdiet congue leo, et vestibulum dolor volutpat eu. Suspendisse potenti. Etiam lobortis at dolor in ultricies. Cras tempor metus vel eros maximus feugiat. Sed nulla lorem, viverra at orci ac, placerat lobortis orci. Praesent bibendum ex vitae commodo rutrum.",
+        "currentValue": "YES",
+        "lastUpdatedAt": 1484832366031
+      }
+    ]
+  },
+  "token_2": {
+    "userConsents": [
+      {
+        "consentId": "MONITORING",
+        "summary": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+        "consentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere quam risus, ut imperdiet lacus scelerisque a. Nulla lacinia odio eget varius blandit. Nunc vehicula tortor in lacus accumsan, ut placerat nisi ornare. Etiam at dignissim sem. Donec congue mi sed ligula porttitor, at consequat erat tempus. Proin pharetra risus lorem, id fringilla nulla laoreet eget. Pellentesque eget sollicitudin augue, ut semper velit. Nunc elementum suscipit tortor. Aliquam tempor iaculis tempus.Etiam tempor vel dolor in fermentum. Phasellus ut lorem dapibus, rutrum leo vitae, feugiat nisl. Aliquam a enim sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit dui, sodales et quam ac, efficitur pellentesque sem. Cras nec scelerisque libero. Pellentesque et magna eleifend, ultrices magna vitae, fringilla ligula. Praesent sed est ultrices, lobortis quam vitae, porttitor erat. Phasellus imperdiet congue leo, et vestibulum dolor volutpat eu. Suspendisse potenti. Etiam lobortis at dolor in ultricies. Cras tempor metus vel eros maximus feugiat. Sed nulla lorem, viverra at orci ac, placerat lobortis orci. Praesent bibendum ex vitae commodo rutrum.",
+        "currentValue": "NO",
+        "lastUpdatedAt": 1484832366831
+      },
+      {
+        "consentId": "PERSONALIZED",
+        "summary": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+        "consentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere quam risus, ut imperdiet lacus scelerisque a. Nulla lacinia odio eget varius blandit. Nunc vehicula tortor in lacus accumsan, ut placerat nisi ornare. Etiam at dignissim sem. Donec congue mi sed ligula porttitor, at consequat erat tempus. Proin pharetra risus lorem, id fringilla nulla laoreet eget. Pellentesque eget sollicitudin augue, ut semper velit. Nunc elementum suscipit tortor. Aliquam tempor iaculis tempus.Etiam tempor vel dolor in fermentum. Phasellus ut lorem dapibus, rutrum leo vitae, feugiat nisl. Aliquam a enim sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam velit dui, sodales et quam ac, efficitur pellentesque sem. Cras nec scelerisque libero. Pellentesque et magna eleifend, ultrices magna vitae, fringilla ligula. Praesent sed est ultrices, lobortis quam vitae, porttitor erat. Phasellus imperdiet congue leo, et vestibulum dolor volutpat eu. Suspendisse potenti. Etiam lobortis at dolor in ultricies. Cras tempor metus vel eros maximus feugiat. Sed nulla lorem, viverra at orci ac, placerat lobortis orci. Praesent bibendum ex vitae commodo rutrum.",
+        "currentValue": "UNKONWN",
+        "lastUpdatedAt": 1484832366031
+      }
+    ]
+  }
+}
